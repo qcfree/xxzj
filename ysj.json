@@ -15,38 +15,22 @@
 
 {"key": "小苹果","name": "🅱️苹果影视|T追剧","type": 3,"api": "csp_LiteApple1","searchable": 1,"quickSearch": 1,"filterable": 1},
 
-//{"key": "大苹果","name": "🅱️苹果影视|T追剧","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1},
-
 {"key":"csp_AppTT","name":"🅱️图图影视|T追剧","type":3,"api":"csp_AppTT2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://154.39.64.151:5566$$$Qks3NWg0dnRPbmlsV3JMdCNkMFZ0OHBJbjRJQXByY3I=$$$Y2hpV2g0dnRiU3pYUGdWWg=="},
-
-//{"key":"AppTT","name":"🅱️图图影视|T追剧","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5"},
-
 
 {"key":"csp_xBPQ_农民影视","name":"🅱️农民影视|T追剧","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/农民影视.json"},
 
-//{"key":"csp_Lezhu","name":"🅱️乐猪影视|T追剧","type":3,"api":"csp_Lezhu1","searchable":1,"quickSearch":1,"filterable":1},
-
-{"key":"乐猪影视","name":"🅱️乐猪影视|T追剧","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/乐猪影视.json"},
+{"key":"csp_Lezhu","name":"🅱️乐猪影视|T追剧","type":3,"api":"csp_Lezhu1","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"csp_77","name":"🅱️炫彩影视|T追剧","type":3,"api":"csp_Kunyu771","searchable":1,"quickSearch":1,"filterable":1},
 
-//{"key":"drpy_js_酷云七七","name":"🅱️炫彩影视|T追剧","type":3,"api":"./tvbox/JS/lib/drpy.min.js","ext":"./tvbox/JS/js/酷云77.js"},
-
 {"key":"csp_BuLei","name":"🅱️布蕾影院|T追剧","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1},
-
-//{"key":"csp_xBPQ_布蕾影院","name":"🅱️布蕾影院|T追剧","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/布蕾影院.json"},
 
 {"key": "py_cctv_full","name": " 📺央视栏目大全","type": 3,"api": "py_cctv_full","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./tvbox/TV/py_ysdq.py"},
 	
 {"key": "py_cctv","name": " 📺央视栏目自选","type": 3,"api": "py_cctv","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./tvbox/TV/py_yszx.py"},
 
-//原
-
 {"key":"mtv_xp_易搜资源","name":"🔍阿里|易搜","type":3,"api":"csp_Yisou" ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/PanSo/panso.json"},
 
-//{"key":"Alips","name":"🔍阿里|盘搜","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch" :1,"filterable":0,"ext":"./tvbox/Panso/ZT.txt"},
-
-//巧技
 //{"key":"Yisou","name":"易搜","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":1,"ext":"676d915af62243a68674a709b3eac5d8","jar":"./tvbox/JAR/qj231121.jar"},
 
 {"key":"AliPanSou","name":"🔍阿里|盘搜","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":1,"ext":"676d915af62243a68674a709b3eac5d8","jar":"./tvbox/JAR/qj231121.jar"},
@@ -54,23 +38,6 @@
 {"key":"UPanSo","name":"🔍阿里|优盘搜","type":3,"api":"csp_UPanSo","searchable":1,"quickSearch":1,"filterable":1,"ext":"676d915af62243a68674a709b3eac5d8","jar":"./tvbox/JAR/qj231121.jar"},
 
 {"key":"FindZY","name":"🔍阿里|找资源","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,"ext":"676d915af62243a68674a709b3eac5d8","jar":"./tvbox/JAR/qj231121.jar"},
-
-//{"key":"Gitcafe","name":"🔍阿里|纸条壹","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"676d915af62243a68674a709b3eac5d8","jar":"./tvbox/JAR/qj231121.jar"},
-
-//备用
-
-//{"key":"csp_Zhaozy","name":"🔍阿里|找源","type":3,"api":"csp_Zhaozy","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "./tvbox/Panso/ztts.txt","jar":"./tvbox/JAR/ts.jar"},
-
-//{"key":"csp_Gitcafe","name":"🔍阿里|纸条贰","type":3,"api":"csp_Gitcafe","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "./tvbox/PanSo/ztsp.txt"},
-
-//{"key":"Gitcafe","name":"🔍阿里|纸条叁","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/Panso/ztts.txt","jar":"./tvbox/JAR/cs.jar"},
-
-//{"key":"push_agent","name":"推送|云盘|磁力","type":3,"api":"csp_PushAgent","playerType":1,"searchable":0,"quickSearch":0,"filterable":0,"ext":"./tvbox/Panso/ztts.txt","jar":"./tvbox/JAR/cs.jar"}
-
-//{"key":"mtv_xp_小纸条源","name":"搜索┃小纸条源","type":3,"api":"csp_Gitcafe"       ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.67.196.181/xpath/太陽-盘搜资源.json"},
-//{"key":"mtv_xp_易搜资源","name":"搜索┃易搜资源","type":3,"api":"csp_Yisou"         ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://111.67.196.181/xpath/太陽-盘搜资源.json"},
-//{"key":"push_agent"     ,"name":"推送┃推送资源","type":3,"api":"csp_PushAgent"     ,"searchable":0,"quickSearch":0,"filterable":0,"ext":"http://111.67.196.181/xpath/太陽-盘搜资源.json"},
-
 
 {"key":"csp_SP360","name":"官源丨综合","type":3,"api":"csp_SP3601","searchable":1,"quickSearch":1,"filterable":1},
 
@@ -80,21 +47,13 @@
 
 {"key":"MGT","name":"官源丨芒果","type":3,"api":"csp_Mgtv1","searchable":1,"quickSearch":1,"filterable":1},
 
-//{"key":"drpy_js_360影视","name":"官源丨综合","type":3,"api":"./tvbox/JS/lib/drpy.min.js","ext":"./tvbox/JS/js/360影视.js"},
-
-//{"key":"drpy_js_奇珍异兽","name":"官源丨奇艺","type":3,"api":"./tvbox/JS/lib/drpy.min.js","ext":"./tvbox/JS/js/爱奇艺.js"},
-
-{"key":"百影视频","name":"🏠百影视频","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"http://47.104.99.175","jar":""},
-
 {"key": "csp_Bttoo","name": "🏠磁力影视","type": 3,"api": "csp_Bttoo1","searchable": 1,"quickSearch": 1,"filterable": 1},
         
-//{"key":"csp_xBPQ_奇优影院","name":"🏠奇优影院","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/奇优影院.json"},
+{"key":"csp_xBPQ_奇优影院","name":"🏠奇优影院","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/奇优影院.json"},
 
 {"key":"csp_xBPQ_达达龟","name":"🏠达达龟剧","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/达达龟.json"},
 
 {"key":"csp_xBPQ_98影院","name":"🏠玖捌影院","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/98影院.json"},
-
-//{"key":"drpy_js_骚火电影","name":"🏠骚火影视","type":3,"api":"./tvbox/JS/lib/drpy.min.js","ext":"./tvbox/JS/js/骚火电影.js"},
 
 {"key":"mtv_xp_动漫巴士","name":"🏠动漫巴士","type":3,"api":"csp_XPathFilter"   ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./tvbox/xBPQ/动漫巴士.json"},
 

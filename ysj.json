@@ -52,10 +52,6 @@
 {"key":"MGT","name":"官源丨芒果","type":3,"api":"csp_Mgtv1","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key": "csp_Bttoo","name": "🏠磁力影视","type": 3,"api": "csp_Bttoo1","searchable": 1,"quickSearch": 1,"filterable": 1},
-        
-{"key":"csp_xBPQ_奇优影院","name":"🏠奇优影院","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/奇优影院.json"},
-
-{"key":"csp_xBPQ_达达龟","name":"🏠达达龟剧","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/达达龟.json"},
 
 {"key":"csp_xBPQ_98影院","name":"🏠玖捌影院","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/98影院.json"},
 

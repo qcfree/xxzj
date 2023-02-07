@@ -39,6 +39,10 @@
 
 {"key":"FindZY","name":"🔍阿里|找资源","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,"ext":"676d915af62243a68674a709b3eac5d8","jar":"./tvbox/JAR/qj231121.jar"},
 
+{"key":"Gitcafe","name":"🔍阿里|纸条壹","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"676d915af62243a68674a709b3eac5d8","jar":"./tvbox/JAR/qj231121.jar"},
+
+{"key": "csp_Paper","name": "🔍阿里|纸条贰","type": 3,"api": "csp_Paper","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "acee28351373450a9257d9f5970b576a","jar":"./tvbox/JAR/xo.jar"},
+
 {"key":"csp_SP360","name":"官源丨综合","type":3,"api":"csp_SP3601","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"teng","name":"官源丨腾讯","type": 3,"api":"csp_QQ1","searchable": 1,"quickSearch": 1,"filterable":1},
@@ -91,11 +95,11 @@
 
 {"name":"嗅探聚合","url":"https://jx.4kdv.com/?url=", "showType":1},
 
-{"name":"小易茶行","type":1,"url":"https://jiexi.parses.repl.co/api.php?url=","ext": {"flag":["rx","ltnb","renrenmi","rongxing","bilibili","哔哩哔哩","哔哩","youku","优酷","qiyi","爱奇艺","奇艺","qq","腾讯","mgtv","芒果","sohu","搜狐","letv","乐视","xigua","CL4K","西瓜"]}},
+{"name":"小易茶行","type":1,"url":"http://lanlan.ckflv.cn/?url=","ext": {"flag":["rx","ltnb","renrenmi","rongxing","bilibili","哔哩哔哩","哔哩","youku","优酷","qiyi","爱奇艺","奇艺","qq","腾讯","mgtv","芒果","sohu","搜狐","letv","乐视","xigua","CL4K","西瓜"]}},
 
 {"name":"茶行嗅探","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
 
-{"name":"小易茶室","type":1,"url":"http://lanlan.ckflv.cn/?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}},
+{"name":"小易茶室","type":1,"url":"https://jiexi.parses.repl.co/api.php?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}},
 
 {"name": "茶室嗅探","url": "https://jx.bozrc.com:4433/player/?url=","type": 0,"ext": {"flag": ["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header": {"User-Agent": "Mozilla/5.0"}}},
 

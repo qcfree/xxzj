@@ -1,7 +1,7 @@
 {
 //小易茶行jar
 
-"spider":"./tvbox/JAR/XiaoYiChaHang.jar",
+"spider":"./tvbox/JAR/0130.txt",
 
 //电视直播
 
@@ -29,19 +29,9 @@
 	
 {"key": "py_cctv","name": " 📺央视栏目自选","type": 3,"api": "py_cctv","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./tvbox/TV/py_yszx.py"},
 
-{"key":"mtv_xp_易搜资源","name":"🔍阿里|易搜","type":3,"api":"csp_Yisou" ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/PanSo/panso.json"},
+{"key":"Yisou","name":"🔍阿里|易搜","type":3,"api":"csp_YiSo","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"7dcd0d0a3f7a42d69fbc9def415668e2","jar":"./tvbox/JAR/0130.jar"},
 
-//{"key":"Yisou","name":"🔍阿里|易搜","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":1,"ext":"676d915af62243a68674a709b3eac5d8","jar":"./tvbox/JAR/qj231121.jar"},
-
-{"key":"AliPanSou","name":"🔍阿里|盘搜","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":1,"ext":"676d915af62243a68674a709b3eac5d8","jar":"./tvbox/JAR/qj231121.jar"},
-
-{"key":"UPanSo","name":"🔍阿里|优盘搜","type":3,"api":"csp_UPanSo","searchable":1,"quickSearch":1,"filterable":1,"ext":"676d915af62243a68674a709b3eac5d8","jar":"./tvbox/JAR/qj231121.jar"},
-
-{"key":"FindZY","name":"🔍阿里|找资源","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,"ext":"676d915af62243a68674a709b3eac5d8","jar":"./tvbox/JAR/qj231121.jar"},
-
-{"key":"Gitcafe","name":"🔍阿里|纸条壹","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"676d915af62243a68674a709b3eac5d8","jar":"./tvbox/JAR/qj231121.jar"},
-
-{"key": "csp_Paper","name": "🔍阿里|纸条贰","type": 3,"api": "csp_Paper","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "acee28351373450a9257d9f5970b576a","jar":"./tvbox/JAR/xo.jar"},
+{"key": "Gitcafe","name": "🔍阿里|纸条","type": "3","api": "csp_Paper","searchable": "1","quickSearch": "1","filterable": "1","ext": "7dcd0d0a3f7a42d69fbc9def415668e2","jar":"./tvbox/JAR/0130.jar"},
 
 {"key":"csp_SP360","name":"官源丨综合","type":3,"api":"csp_SP3601","searchable":1,"quickSearch":1,"filterable":1},
 

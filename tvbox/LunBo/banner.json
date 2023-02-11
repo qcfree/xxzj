@@ -13,20 +13,13 @@
       "show": true
     },
     
-{
-      "name": "品茗闻香",
-      "pic": "https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/tvbox/tu/pc.png",
-      "url": "",
-      "type": "",     
-       "desc": "13978575255(微信同号)",
-      "show": true
-    },
+//{"name": "品茗闻香","pic": "https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/tvbox/tu/pc.png","url": "","type": "",     "desc": "13978575255(微信同号)","show": true},
     {
-      "name": "",
+      "name": "🔥狂飙🔥",
       "pic": "https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/tvbox/tu/cpbc.jpg",
       "url": "",
-      "type": "",     
-       "desc": "",
+      "type": "search",     
+       "desc": "点击搜索该剧",
       "show": true
     },
     {

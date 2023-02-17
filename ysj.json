@@ -15,7 +15,7 @@
 
 {"key": "小苹果","name": "🅱️苹果影视|T追剧","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1},
 
-{"key":"csp_AppTT","name":"🅱️图图影视|T追剧","type":3,"api":"csp_AppTT2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://154.39.64.151:5566$$$Qks3NWg0dnRPbmlsV3JMdCNkMFZ0OHBJbjRJQXByY3I=$$$Y2hpV2g0dnRiU3pYUGdWWg=="},
+{"key": "AppTT","name": "🅱️图图影视|T追剧","type": "3","api": "csp_Dora","searchable": "1","quickSearch": "1","filterable": "1","ext": "110c922de7d69804467fb83d3bb664b5","jar":"./tvbox/JAR/spider.jar"},
 
 {"key":"csp_xBPQ_农民影视","name":"🅱️农民影视|T追剧","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/农民影视.json"},
 

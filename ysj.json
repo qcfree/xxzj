@@ -13,6 +13,10 @@
 
 {"key":"js豆瓣","name":"🅱️追剧影院|T荐片","type":3,"api":"./tvbox/JS/js/doubanrebo1.js","ext":"./tvbox/JS/js/doubanrebo2.js","searchable": 0,"quickSearch": 0,"filterable": 0},
 
+{"key":"csp_xBPQ_新视觉","name":"🅱️视觉影视|T追剧","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/新视觉影视.json"},
+
+{"key":"csp_xBPQ_布蕾","name":"布蕾蓝光","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/布蕾.json"},
+
 {"key": "小苹果","name": "🅱️苹果影视|T追剧","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 {"key": "AppTT","name": "🅱️图图影视|T追剧","type": "3","api": "csp_Dora","searchable": "1","quickSearch": "1","filterable": "1","ext": "110c922de7d69804467fb83d3bb664b5","jar":"./tvbox/JAR/spider.jar"},
@@ -40,10 +44,6 @@
 {"key": "UpYun","name": "🔍阿里|优盘搜","type": 3,"api": "csp_UpYun","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./tvbox/PanSo/token.txt"},
 
 {"key": "Zhaozy","name": "🔍阿里|找资源","type": 3,"api": "csp_Zhaozy","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "./tvbox/PanSo/token.txt"},
-
-{"key": "csp_Paper","name": "🔍阿里|纸条壹","type": 3,"api": "csp_Paper","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./tvbox/PanSo/token.txt"},
-
-{"key":"Gitcafe","name":"🔍阿里|纸条贰","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/PanSo/token.txt","jar":"./tvbox/JAR/9461.jar"},
 
 {"key":"csp_SP360","name":"官源丨综合","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 

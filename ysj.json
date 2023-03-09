@@ -31,15 +31,7 @@
 
 {"key":"csp_xBPQ_子子","name":"🅱️子子影视|T追剧","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/子子影视.json"},
 
-{"key": "csp_xBPQ_北川影视","name": "🅱️北川影视|T追剧","type": 3,"api": "csp_XBPQ","ext":"./tvbox/xBPQ/北川影视.json","jar":"./tvbox/JAR/zy.jar"},
-
 {"key":"csp_xBPQ_HOHOTV","name":"🅱️邂逅影视|T追剧","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/HOHOTV.json"},
-
-{"key": "csp_xBPQ_TVB云播","name": "🅱️TVB云播|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/TVB云播.json","jar":"./tvbox/JAR/zy.jar"},
-
-{"key": "csp_xBPQ_骚火","name": "🅱️骚火影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/骚火影视.json","jar":"./tvbox/JAR/zy.jar"},
-
-{"key": "csp_xBPQ_vip","name": "🅱️会员影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/vip电影.json","jar":"./tvbox/JAR/zy.jar"},
 
 {"key": "py_cctv_full","name": " 📺央视栏目大全","type": 3,"api": "py_cctv_full","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./tvbox/TV/py_ysdq.py"},
 	

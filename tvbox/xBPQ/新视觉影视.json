@@ -1,29 +1,30 @@
 {
 "作者":"荷城茶秀",
+
 "站名":"新视觉影视",
-"主页url":"https://www.6080dy2.com",
-"数组":"<div class=\"module-item-pic\">&&<div class=\"module-item\">",
-"副标题":"<div class=\"module-item-text\">&&</div>",
-"搜索url":"/vodsearch/{wd}----------{pg}---.html",
-"搜索模式":"1",
-"搜索数组":"<img class=\"lazy lazyload&&</h3>",
-"搜索图片":"data-src=\"&&\"",
-"搜索标题":"alt=\"&&\"",
-"搜索链接":"href=\"&&\"",
-"搜索副标题":"title=*>&&</a>",
-"搜索后缀":"/video/",
+
+"数组":"module-item-cover\">&&module-item\">",
+
+"图片":"data-src=\"&&\"",
+
+"标题":"title=\"&&\"",
+
+"副标题":"module-item-text\">&&</div>",
+
 "线路数组":"data-dropdown-value=&&</div>",
-"线路标题":"<span>&&</small>[替换:</span><small>>>♥]+集♥",
+
+"线路标题":"<span>&&</small>[替换:</span><small>>>♥共]+集♥",
+
+"链接":"href=\"&&\"",
+
 "播放数组":"<div class=\"sort-item\"&&</div>",
-"导演":"导演：&&</div>",
-"主演":"主演：&&</div>",
-"简介":"<div class=\"video-info-item video-info-content vod_content\">&&</div>",
-"播放列表":"<a&&</a>",
-"播放标题":"title=\"&&\"",
-"播放链接":"href=\"&&\"",
-"免嗅":"1",
-"分类url":"https://www.6080dy2.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
+
+"播放标题":"<span>&&</span>",
+
+"分类url":"https://www.6080dy3.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
+
 "分类":"电影$1#电视剧$2#综艺$3#动漫$4",
+
 "筛选":{
 "1":[
 {
@@ -428,3 +429,4 @@
 ]
 }
 }
+

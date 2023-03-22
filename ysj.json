@@ -56,6 +56,18 @@
 
 {"key": "csp_xBPQ_二次萌","name": "🅱️二次萌视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/二次萌影视.json"},
 
+{"key": "csp_xBPQ_1080","name": "🅱️1080影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/1080影视.json"},
+
+{"key": "csp_xBPQ_4K","name": "🅱️4k追番剧|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/4K追剧.json"},
+
+{"key": "csp_xBPQ_数字","name": "🅱️数字影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/数字影视.json"},
+
+{"key": "csp_xBPQ_神马","name": "🅱️神马影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/神马影视.json"},
+
+{"key": "csp_xBPQ_白狐","name": "🅱️白狐影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/白狐影视.json"},
+
+{"key": "csp_xBPQ_555","name": "🅱️叁伍影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/555影视.json"},
+
 {"key": "py_cctv_full","name": " 📺央视栏目大全","type": 3,"api": "py_cctv_full","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./tvbox/TV/py_ysdq.py"},
 	
 {"key": "py_cctv","name": " 📺央视栏目自选","type": 3,"api": "py_cctv","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./tvbox/TV/py_yszx.py"},

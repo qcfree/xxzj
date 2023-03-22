@@ -6,11 +6,23 @@
 
 "主页url":"https://www.lgyy.tv/",
 
+"搜索url":"/vodsearch/{wd}----------{pg}---.html",
+
+"搜索数组":"module-item\">&&strong>",
+
+"搜索标题":"<strong>&&</",
+
+"搜索副标题":"module-item-note\">&&</div>",
+
+"搜索图片":"data-original=\"&&\"",
+
+"搜索模式":"0",
+
 "分类url":"https://www.lgyy.tv/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;mal",
 
 "线路数组":"data-dropdown-value=&&</div>",
 
-"线路标题":"<span>&&</small>[替换:</span><small>>>♥]+集♥",
+"线路标题":"<span>&&</small>[替换:</span><small>>>>线路♥共]+集♥",
 
 "分类":"电影$1#电视剧$2#综艺$3#动漫$5#纪录片$4",
 

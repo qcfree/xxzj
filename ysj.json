@@ -16,7 +16,7 @@
 
 {"key": "小苹果","name": "🅱️苹果影视|T追剧","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1},
 
-//{"key":"csp_77","name":"🅱️炫彩影视|T追剧","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_77","name":"🅱️炫彩影视|T追剧","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"csp_xBPQ_农民影视","name":"🅱️农民影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/农民影视.json"},
 

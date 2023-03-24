@@ -14,6 +14,16 @@
 
 "副标题":"text-right\">&&</",
 
+"搜索url":"/search/{wd}----------{pg}---.html",
+
+"搜索数组":"lazyload&&a>",
+
+"搜索图片":"data-original=\"&&\"",
+
+"搜索标题":"title=\"&&\"",
+
+"搜索副标题":"text-right\">&&</",
+
 "简介":"'剧情简介','&&','500','350'",
 
 "分类url":"https://www.siguyy.com/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;mal",

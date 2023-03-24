@@ -5,15 +5,15 @@
 
 "主页url":"https://www.umkan.cc/",
 
-//"线路数组":"dropdown-value=&&\"shortcuts-mobile-overlay\"",
+"线路数组":"data-dropdown-value=&&</div>",
 
-//"线路标题":"<span>&&</small>",
+"线路标题":"<span>&&</small>[替换:</span><small>>>♥共]+集♥",
 
 "播放数组":"<div class=\"module-play-list-content&&</div>",
 
 "播放标题":"<span>&&</span>",
 
-"分类url":"https://www.umkan.cc/index.php/vod_show_area_{area}_by_{by}_class_{class}_id_{cateId}_lang_{lang}_page_{catePg}_year_{year}.html;;m",
+"分类url":"https://www.umkan.cc/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}year/{year}.html",
 
 "分类":"电影$1#连续剧$2#动漫$4#综艺$3",
 
@@ -23,6 +23,7 @@
 {"n":"全部剧情","v":""},
 {"n":"喜剧","v":"喜剧"},
 {"n":"动作","v":"动作"},
+
 {"n":"爱情","v":"爱情"},
 {"n":"惊悚","v":"惊悚"},
 {"n":"犯罪","v":"犯罪"},
@@ -67,7 +68,7 @@
 {"n":"其它","v":"其它"}
 ]
 },
-{"key":"land","name":"语言","value":[
+{"key":"lang","name":"语言","value":[
 {"n":"全部语言","v":""},
 {"n":"国语","v":"国语"},
 {"n":"英语","v":"英语"},
@@ -231,7 +232,7 @@
 {"n":"其他","v":"其他"}
 ]
 },
-{"key":"land","name":"语言","value":[
+{"key":"lang","name":"语言","value":[
 {"n":"全部语言","v":""},
 {"n":"国语","v":"国语"},
 {"n":"英语","v":"英语"},
@@ -308,7 +309,7 @@
 {"n":"其它","v":"其它"}
 ]
 },
-{"key":"land","name":"语言","value":[
+{"key":"lang","name":"语言","value":[
 {"n":"全部语言","v":""},
 {"n":"国语","v":"国语"},
 {"n":"英语","v":"英语"},

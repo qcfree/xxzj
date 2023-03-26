@@ -6,7 +6,19 @@
 
 "首页":"电视剧",
 
+"搜索url":"/vodsearch/{wd}----------{pg}---.html",
+
+"搜索数组":"<div class=\"searchlist_img\">&&</div>",
+
+"搜索图片":"data-original=\"&&\"",
+
+"搜索标题":"title=\"&&\"",
+
 "分类url":"https://www.chuandi.cc/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;xmal",
+
+"线路数组":"<a href=\"javascript:void(0);\"&&a>",
+
+"线路标题":"alt=\"&&\">",
 
 "分类":"电影$1#电视剧$2#综艺$3#动漫$4",
 

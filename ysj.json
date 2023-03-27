@@ -16,13 +16,15 @@
 
 {"key": "csp_xBPQ_荷城","name": "🅱️荷城影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/荷城影视.json"},
 
-{"key": "csp_xBPQ_传递","name": "🅱️传递影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/传递影视.json"},
-
-{"key": "csp_xBPQ_孜然","name": "🅱️孜然影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/孜然影视.json"},
+{"key": "csp_xBPQ_茶秀","name": "🅱️茶秀影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/茶秀影视.json"},
 
 {"key": "小苹果","name": "🅱️苹果影视|T追剧","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 {"key":"csp_77","name":"🅱️炫彩影视|T追剧","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+
+{"key": "csp_xBPQ_传递","name": "🅱️传递影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/传递影视.json"},
+
+{"key": "csp_xBPQ_孜然","name": "🅱️孜然影视|T追剧","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/孜然影视.json"},
 
 {"key":"csp_xBPQ_子子","name":"🅱️子子影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./tvbox/xBPQ/子子影视.json"},
 

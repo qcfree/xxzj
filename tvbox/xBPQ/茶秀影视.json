@@ -20,6 +20,16 @@
     
     "简介":"剧情:&&</p>",
     
+    "搜索url":"/index.php?m=vod-search;post;wd={wd}&search=",
+        
+    "搜索数组":"<div class=\"pic\">&&</div>",
+    
+    "搜索图片":"data-src=\"&&\"",
+    
+    "搜索标题":"title=\"&&\"",
+    
+    "搜索副标题":"<span class=\"sStyle\">&&</span>",
+    
     "分类url":"https://m.doujiaow8.com/index.php?m=vod-list-id-{cateId}-pg-{catePg}-order--by-{by}-class-{class}-year-{year}-letter--area-{area}-lang-.html",
     
     "分类":"电影$1#电视剧$2#综艺$30#动漫$4",

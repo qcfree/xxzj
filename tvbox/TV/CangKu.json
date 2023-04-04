@@ -1,10 +1,9 @@
 {
 "urls":[
 //{"url":"","name":"请点击下方线路观看"},
-{"url":"https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/ysj.json","name":"🚀荷城茶秀Agit在线接口"
-},
+{"url":"https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/ysj.json",
+"name":"🚀荷城茶秀Agit在线接口"},
 {"url":"https://ghproxy.com/https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/ysj.json",
-"name":"🚀荷城茶秀Github在线接口"
-},
+"name":"🚀荷城茶秀Github在线接口"}
 ]
 }

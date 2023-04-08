@@ -1,13 +1,11 @@
 {
 "urls":[
 //{"url":"","name":"请点击下方线路观看"},
-{"url":"https://ghproxy.com/https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/ysj.json",
-"name":"荷城茶秀接口㊣"},
 {"url":"http://rihou.cc/荷城茶秀",
 "name":"荷城茶秀接口①"},
 {"url":"http://tv.rihou.cc/荷城茶秀",
 "name":"荷城茶秀接口②"},
-{"url":"https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/ysj.json",
-"name":"荷城茶秀接口③"}
+{"url":"https://ghproxy.com/https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/ysj.json",
+"name":"荷城茶秀接口㊣"}
 ]
 }
